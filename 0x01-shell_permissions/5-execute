@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod 744 hello
+chomod u+x hello
